@@ -21,12 +21,12 @@ This repository contains the R code for organisation and viualization of data ou
 
 - **mother_foetus_Qadmixture.txt**
 
-  Contains output data from _Estpost_, used in 'Data_organization.R'
+  Contains output data from _Estpost_, used in `Data_organization.R`
 
 - **outputestpost_allQ12.txt**
 
-  Contains output data from _Estpost_, used in 'Data_organization.R'
+  Contains output data from _Estpost_, used in `Data_organization.R`
 
 - **formatted_final_scores.txt**
 
-  Organized intersource ancestry (Q12) and estimated admixture(q score) of fathers, mothers and progeny, used in                 'Correlation_test_and_plots.R' and 'Triangle_plots.R'.
+  Organized intersource ancestry (Q12) and estimated admixture(q score) of fathers, mothers and progeny, used in                 `Correlation_test_and_plots.R` and `Triangle_plots.R`.
