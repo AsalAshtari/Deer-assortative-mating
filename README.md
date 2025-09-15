@@ -1,4 +1,4 @@
-# Deer-assortative-mating
+# Deer assortative mating
 This repository contains the R code for organisation and viualization of data output from the _Populusancestry_ and _Estpost_ softwares.
 
 **Files in this Repository**
