@@ -15,7 +15,7 @@ This repository contains the R code for organisation and viualization of data ou
 
 - **Triangle_plots.R**
 
-  Generates triangle plots to visualize the relationship between intersource ancestry (Q12) and estimated admixture(q score).
+  Generates triangle plots to visualize the relationship between intersource ancestry (Q12) and estimated admixture (q scores).
 
 ### Data Files
 
